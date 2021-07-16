@@ -1,13 +1,12 @@
 {
-  "name": "tree-sitter-dockerfile",
+  "name": "tree-sitter-ninja",
   "version": "0.1.0",
-  "description": "A tree-sitter module for the Dockerfile grammar",
+  "description": "A tree-sitter module for the Ninja grammar",
   "main": "bindings/node",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Camden Cheek <camden@ccheek.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "nan": "^2.14.2"
   },
